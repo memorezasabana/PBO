@@ -16,4 +16,4 @@
 # Luas Permukaan Balok
 ![Alt Text](https://github.com/memorezasabana/PBO/blob/master/LP%20Balok.png)
 # Biodata
-![Alt Text](https://github.com/memorezasabana/PBO/blob/master/Biodata.png)
+![Alt Text](https://github.com/memorezasabana/PBO/blob/master/Biodata%20Fix.png)
