@@ -52,11 +52,11 @@ public class Biodata {
 
     private void setAlamatdimalang(String alamat) {
         alamat = "Jl. Danau Laut Tawar G2E23 Sawojajar, Kota Malang";
-        System.out.println("Jenis Kelamin   : " + alamat);
+        System.out.println("Alamat di Malang : " + alamat);
     }
 
     private void setMottohidup(String motto) {
         motto = "Berhenti bicara, bergerak, dan berjalanlah";
-        System.out.println("Jenis Kelamin   : " + motto);
+        System.out.println("Motto Hidup       : " + motto);
     }
 }
